@@ -42,7 +42,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="crear.php">
-                        <i class="fas fa-truck-moving"></i> Agregar Camion
+                        <i class="fas fa-truck-moving"></i> Agregar Camión
                         </a>
                     </li>
 
