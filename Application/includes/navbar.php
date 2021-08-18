@@ -60,7 +60,7 @@
                     </li>
 
                     <li class="nav-item ">
-                        <a class="nav-link" href="login.php?close=true">
+                        <a class="nav-link" href="index.php?close=true">
                         <i class="fas fa-sign-out-alt"></i>Cerrar Sesion
                         </a>
                     </li>
